@@ -7,3 +7,6 @@
 *~
 \#*
 dist
+
+.fake
+.ionide
